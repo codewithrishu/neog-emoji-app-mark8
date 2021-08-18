@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  width: 30rem;
+  padding: 1rem 2.5rem;
+  margin-bottom: 2rem;
+}
