@@ -7,7 +7,12 @@ var emojiDictionary = {
   "😆": "Happy",
   "😍": "Loving",
   "😎": "Cool",
-  "😴": "Sad"
+  "😴": "Sad",
+  "😇": "angel",
+  "😈": "Devil",
+  "👋": "hi",
+  "🍔": "yumm..burger",
+  "🎂": "cake"
 };
 
 export default function App() {
